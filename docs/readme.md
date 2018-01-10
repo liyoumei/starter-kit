@@ -1,4 +1,4 @@
-# ngX-Rocket
+# ng x rocket
 
 Welcome to the project documentation!
 
