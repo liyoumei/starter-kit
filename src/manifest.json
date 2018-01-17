@@ -1,10 +1,10 @@
 {
-  "name": "ngX-Rocket",
-  "short_name": "ngX-Rocket",
+  "name": "Youmei Li",
+  "short_name": "Youmei Lit",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
-    "src": "assets/ngx-rocket-logo.png",
+    "src": "assets/ym-logo.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
